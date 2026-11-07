@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512" role="img" aria-label="TyPy">
+  <title>TyPy</title>
+  <defs><linearGradient id="tile" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#173E6B"/><stop offset="1" stop-color="#0B1F3A"/></linearGradient><linearGradient id="amber" x1="0" y1="0" x2="0" y2="1"><stop offset="0" stop-color="#FBBF24"/><stop offset="1" stop-color="#F59E0B"/></linearGradient></defs>
+  <rect width="512" height="512" fill="url(#tile)"/>
+  <rect x="108" y="136" width="216" height="64" rx="30" fill="#F8FAFC"/>
+  <rect x="184" y="136" width="64" height="244" rx="30" fill="#F8FAFC"/>
+  <circle cx="368" cy="236" r="36" fill="url(#amber)"/>
+  <rect x="332" y="308" width="72" height="72" rx="16" fill="url(#amber)"/>
+</svg>
